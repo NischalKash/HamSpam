@@ -1,0 +1,17 @@
+How to run the file :
+
+I have included two files
+naive_bayes.py
+cosine_similarity.py
+
+Both the files contain its own implementation
+
+Execution :
+
+$python3 naive_bayes.py
+
+Gives output within a second
+
+$python3 cosine_similarity.py
+
+Takes approximately 50-75 minutes to provide the output.
